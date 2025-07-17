@@ -1,4 +1,4 @@
-# Employee Statistical Analysis – Tableau Project
+# Employee Statistical Analysis – SQL/Tableau Project
 
 This repository contains a statistical analysis and visualization project focused on employee data, designed to identify key workforce trends and insights. The project utilizes Tableau for interactive dashboards and storytelling, and SQL for data extraction and transformation.
 
