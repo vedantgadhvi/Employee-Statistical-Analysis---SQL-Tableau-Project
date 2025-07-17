@@ -7,9 +7,8 @@ This repository contains a statistical analysis and visualization project focuse
 ## Project Structure
 
 - Employee Statistical Analysis.pptx
-    - Employee Statistical Analysis.twbx for packaged workbook
-    - employee_mod.sql
-
+- Employee Statistical Analysis.twbx for packaged workbook
+- employee_mod.sql
 
 ---
 
